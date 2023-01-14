@@ -1,0 +1,8 @@
+.paperStoreView {
+  width: 800px;
+  margin: 1em auto;
+  border: 2px solid #eee;
+  padding: 1em;
+  box-shadow: 1px 1px 3px 2px rgb(0 0 0 / 8%);
+  position: relative;
+}

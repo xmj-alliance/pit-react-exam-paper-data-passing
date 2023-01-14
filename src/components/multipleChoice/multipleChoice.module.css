@@ -1,0 +1,10 @@
+.MultipleChoice {
+  margin: 1em;
+  width: 80%;
+}
+
+.caption {
+  display: block;
+  padding: 0.5em 1em;
+  text-align: left;
+}

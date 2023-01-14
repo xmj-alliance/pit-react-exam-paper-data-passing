@@ -1,0 +1,18 @@
+.paperTitle {
+  font-size: 2em;
+}
+
+.scoreHolder {
+  text-align: right;
+  margin: 1em;
+}
+
+.paperContent {
+  margin-bottom: 3em;
+}
+
+.bottomControls {
+  position: absolute;
+  width: 100%;
+  bottom: 1em;
+}
